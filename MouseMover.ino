@@ -1,6 +1,8 @@
 //
 // Automatic mouse movement preventing PC sleep mode or screensaver
 // Alexandre Terentiev, V1.0, 2018-29
+// Based on DigiSpark hardware (http://digistump.com/products/1)
+// Uses DigiMouse library from DigiStump Arduino repository (Board manager URL: http://digistump.com/package_digistump_index.json)
 // Licensed under CC-BY-SA 3.0 terms (https://creativecommons.org/licenses/by-sa/3.0/)
 //
 
